@@ -1,0 +1,12 @@
+C:\WishListProject\System.Application\bin\Debug\netcoreapp2.2\System.Application.deps.json
+C:\WishListProject\System.Application\bin\Debug\netcoreapp2.2\System.Application.runtimeconfig.json
+C:\WishListProject\System.Application\bin\Debug\netcoreapp2.2\System.Application.runtimeconfig.dev.json
+C:\WishListProject\System.Application\bin\Debug\netcoreapp2.2\System.Application.dll
+C:\WishListProject\System.Application\bin\Debug\netcoreapp2.2\System.Application.pdb
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.AssemblyInfoInputs.cache
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.AssemblyInfo.cs
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.csproj.CoreCompileInputs.cache
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.dll
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.pdb
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.genruntimeconfig.cache
+C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.csprojAssemblyReference.cache

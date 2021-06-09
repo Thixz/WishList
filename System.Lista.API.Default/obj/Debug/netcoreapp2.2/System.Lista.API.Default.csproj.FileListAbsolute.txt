@@ -1,0 +1,15 @@
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Lista.API.Default.deps.json
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Lista.API.Default.runtimeconfig.json
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Lista.API.Default.runtimeconfig.dev.json
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Lista.API.Default.dll
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Lista.API.Default.pdb
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Application.dll
+C:\WishListProject\System.Lista.API.Default\bin\Debug\netcoreapp2.2\System.Application.pdb
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.csprojAssemblyReference.cache
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.AssemblyInfoInputs.cache
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.AssemblyInfo.cs
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.csproj.CoreCompileInputs.cache
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.csproj.CopyComplete
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.dll
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.pdb
+C:\WishListProject\System.Lista.API.Default\obj\Debug\netcoreapp2.2\System.Lista.API.Default.genruntimeconfig.cache

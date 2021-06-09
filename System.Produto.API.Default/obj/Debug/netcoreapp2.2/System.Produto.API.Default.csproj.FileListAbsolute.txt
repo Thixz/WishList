@@ -1,0 +1,15 @@
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Produto.API.Default.deps.json
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Produto.API.Default.runtimeconfig.json
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Produto.API.Default.runtimeconfig.dev.json
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Produto.API.Default.dll
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Produto.API.Default.pdb
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Application.dll
+C:\WishListProject\System.Produto.API.Default\bin\Debug\netcoreapp2.2\System.Application.pdb
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.csprojAssemblyReference.cache
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.AssemblyInfoInputs.cache
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.AssemblyInfo.cs
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.csproj.CoreCompileInputs.cache
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.csproj.CopyComplete
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.dll
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.pdb
+C:\WishListProject\System.Produto.API.Default\obj\Debug\netcoreapp2.2\System.Produto.API.Default.genruntimeconfig.cache

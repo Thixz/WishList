@@ -1,0 +1,15 @@
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Usuario.API.Default.deps.json
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Usuario.API.Default.runtimeconfig.json
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Usuario.API.Default.runtimeconfig.dev.json
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Usuario.API.Default.dll
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Usuario.API.Default.pdb
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Application.dll
+C:\WishListProject\WishListProject\bin\Debug\netcoreapp2.2\System.Application.pdb
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.csprojAssemblyReference.cache
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.AssemblyInfoInputs.cache
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.AssemblyInfo.cs
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.csproj.CoreCompileInputs.cache
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.csproj.CopyComplete
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.dll
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.pdb
+C:\WishListProject\WishListProject\obj\Debug\netcoreapp2.2\System.Usuario.API.Default.genruntimeconfig.cache
