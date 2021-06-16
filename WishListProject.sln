@@ -11,7 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Produto.API.Default"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Lista.API.Default", "System.Lista.API.Default\System.Lista.API.Default.csproj", "{46437315-BE70-4093-AFF5-F0FF0250D2B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WishListTests", "WishListTests\WishListTests.csproj", "{9DAEA900-969E-4FDB-9B2E-A336D012BB5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WishListTests", "WishListTests\WishListTests.csproj", "{9DAEA900-969E-4FDB-9B2E-A336D012BB5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{1A3118CD-EFE3-496F-B84C-4B5D92969584}"
+	ProjectSection(SolutionItems) = preProject
+		DatabaseSchema.sql = DatabaseSchema.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

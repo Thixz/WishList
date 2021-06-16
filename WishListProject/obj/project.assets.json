@@ -12772,11 +12772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WishListProject\\WishListProject\\System.Usuario.API.Default.csproj",
+      "projectUniqueName": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\WishListProject\\System.Usuario.API.Default.csproj",
       "projectName": "System.Usuario.API.Default",
-      "projectPath": "C:\\WishListProject\\WishListProject\\System.Usuario.API.Default.csproj",
+      "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\WishListProject\\System.Usuario.API.Default.csproj",
       "packagesPath": "C:\\Users\\Thi e Ray\\.nuget\\packages\\",
-      "outputPath": "C:\\WishListProject\\WishListProject\\obj\\",
+      "outputPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\WishListProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12796,8 +12796,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\WishListProject\\System.Application\\System.Application.csproj": {
-              "projectPath": "C:\\WishListProject\\System.Application\\System.Application.csproj"
+            "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj": {
+              "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RShdIHiYap4EcZ+X+lGgFpS6uXhNkhO4I3W1/y7705zoGCQsrtoXDen5h+s/Ge5Wg/7pyMPPRC7ObeII8VGABA==",
+  "dgSpecHash": "nmdwp0+/V7rDb8KoXKuZr8kdDK0hLra8ZwZZtNBfwj3sfq6fj4VPV2tD4DqQ4aGgM1RVs+1TXIse+ZAf8Vdk0g==",
   "success": true,
-  "projectFilePath": "C:\\WishListProject\\System.Lista.API.Default\\System.Lista.API.Default.csproj",
+  "projectFilePath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Lista.API.Default\\System.Lista.API.Default.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thi e Ray\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
     "C:\\Users\\Thi e Ray\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",

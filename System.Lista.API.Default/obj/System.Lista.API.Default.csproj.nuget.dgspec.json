@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WishListProject\\System.Lista.API.Default\\System.Lista.API.Default.csproj": {}
+    "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Lista.API.Default\\System.Lista.API.Default.csproj": {}
   },
   "projects": {
-    "C:\\WishListProject\\System.Application\\System.Application.csproj": {
+    "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WishListProject\\System.Application\\System.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj",
         "projectName": "System.Application",
-        "projectPath": "C:\\WishListProject\\System.Application\\System.Application.csproj",
+        "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj",
         "packagesPath": "C:\\Users\\Thi e Ray\\.nuget\\packages\\",
-        "outputPath": "C:\\WishListProject\\System.Application\\obj\\",
+        "outputPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\WishListProject\\System.Lista.API.Default\\System.Lista.API.Default.csproj": {
+    "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Lista.API.Default\\System.Lista.API.Default.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WishListProject\\System.Lista.API.Default\\System.Lista.API.Default.csproj",
+        "projectUniqueName": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Lista.API.Default\\System.Lista.API.Default.csproj",
         "projectName": "System.Lista.API.Default",
-        "projectPath": "C:\\WishListProject\\System.Lista.API.Default\\System.Lista.API.Default.csproj",
+        "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Lista.API.Default\\System.Lista.API.Default.csproj",
         "packagesPath": "C:\\Users\\Thi e Ray\\.nuget\\packages\\",
-        "outputPath": "C:\\WishListProject\\System.Lista.API.Default\\obj\\",
+        "outputPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Lista.API.Default\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -123,8 +123,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\WishListProject\\System.Application\\System.Application.csproj": {
-                "projectPath": "C:\\WishListProject\\System.Application\\System.Application.csproj"
+              "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj": {
+                "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj"
               }
             }
           }

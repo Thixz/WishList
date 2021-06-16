@@ -13822,11 +13822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WishListProject\\WishListTests\\WishListTests.csproj",
+      "projectUniqueName": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\WishListTests\\WishListTests.csproj",
       "projectName": "WishListTests",
-      "projectPath": "C:\\WishListProject\\WishListTests\\WishListTests.csproj",
+      "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\WishListTests\\WishListTests.csproj",
       "packagesPath": "C:\\Users\\Thi e Ray\\.nuget\\packages\\",
-      "outputPath": "C:\\WishListProject\\WishListTests\\obj\\",
+      "outputPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\WishListTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13846,8 +13846,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\WishListProject\\System.Application\\System.Application.csproj": {
-              "projectPath": "C:\\WishListProject\\System.Application\\System.Application.csproj"
+            "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj": {
+              "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj"
             }
           }
         }

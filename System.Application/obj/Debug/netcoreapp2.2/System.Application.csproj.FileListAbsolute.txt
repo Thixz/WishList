@@ -10,3 +10,15 @@ C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application
 C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.pdb
 C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.genruntimeconfig.cache
 C:\WishListProject\System.Application\obj\Debug\netcoreapp2.2\System.Application.csprojAssemblyReference.cache
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\bin\Debug\netcoreapp2.2\System.Application.deps.json
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\bin\Debug\netcoreapp2.2\System.Application.runtimeconfig.json
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\bin\Debug\netcoreapp2.2\System.Application.runtimeconfig.dev.json
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\bin\Debug\netcoreapp2.2\System.Application.dll
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\bin\Debug\netcoreapp2.2\System.Application.pdb
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.csprojAssemblyReference.cache
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.AssemblyInfoInputs.cache
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.AssemblyInfo.cs
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.dll
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.pdb
+C:\Users\Thi e Ray\Desktop\WishList-main\System.Application\obj\Debug\netcoreapp2.2\System.Application.genruntimeconfig.cache

@@ -12728,11 +12728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WishListProject\\System.Application\\System.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj",
       "projectName": "System.Application",
-      "projectPath": "C:\\WishListProject\\System.Application\\System.Application.csproj",
+      "projectPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\System.Application.csproj",
       "packagesPath": "C:\\Users\\Thi e Ray\\.nuget\\packages\\",
-      "outputPath": "C:\\WishListProject\\System.Application\\obj\\",
+      "outputPath": "C:\\Users\\Thi e Ray\\Desktop\\WishList-main\\System.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
